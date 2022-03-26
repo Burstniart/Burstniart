@@ -1,5 +1,6 @@
-I’m Alejandro Garcia, third year student in systems engineering;
-Java, Python and Javascript are my learning paths;
-Looking to partake in any project and collaborate;
+# I’m Alejandro Garcia
+- Third year student in systems engineering;
+- Java, Python and Javascript are my learning paths;
+- Currently enrolled in Innovaccion LaunchX 
 
-DM's are open for any project proposal, looking forward to work with you;
+Right now data science is my next interest on the list
