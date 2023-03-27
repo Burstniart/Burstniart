@@ -7,7 +7,7 @@
 
 ### TL;DR
 ```py
-  Systems Engineering: "Third year";
+  Systems Engineering;
   Languages: [Java, Python, Javascript],
     Tools: ["VS Code", "React", "NodeJs", "Express"];
   On Focus: "Currently working on web development skills"
