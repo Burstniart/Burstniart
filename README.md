@@ -22,6 +22,6 @@ Proactive, responsible, self-directed.
 Team player who loves to be involved in every aspect of the project, I'll lend a hand any time.
 When I'm not working I'm learning and sharpening my skills.
 
-Check out some of my work:
+### Check out some of my work:
 Here's a web app that gives you a different workout each day, 6 days a week:
 [GYM Routine](https://github.com/Burstniart/Gym-Routine)
